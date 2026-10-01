@@ -59,6 +59,7 @@ export const ALIASES: [string, string][] = [
   ["راس الخيمه", "ras al khaimah"],
   ["ام القيوين", "umm al quwain"],
   ["ابوظبي", "abu dhabi"],
+  ["ابو ظبي", "abu dhabi"],
   ["الشارقه", "sharjah"],
   ["الفجيره", "fujairah"],
   ["الامارات", "emirates"],
